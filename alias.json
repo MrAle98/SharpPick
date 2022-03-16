@@ -1,0 +1,26 @@
+{
+    "name": "SharpMapExec",
+    "version": "0.0.0",
+    "command_name": "sharpmapexec",
+    "original_author": "@TheKevinWang",
+    "repo_url": "https://github.com/MrAle98/SharpPick",
+    "help": "run powershell not in CLM",
+
+    "entrypoint": "Main",
+    "allow_args": true,
+    "default_args": "",
+    "is_reflective": false,
+    "is_assembly": true,
+    "files": [
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "path": "SharpPick.exe"
+        },
+        {
+            "os": "windows",
+            "arch": "386",
+            "path": "SharpPick.exe"
+        }
+    ]
+}
