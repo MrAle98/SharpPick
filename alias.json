@@ -1,7 +1,7 @@
 {
-    "name": "SharpMapExec",
+    "name": "SharpPick",
     "version": "0.0.0",
-    "command_name": "sharpmapexec",
+    "command_name": "sharp-pick",
     "original_author": "@TheKevinWang",
     "repo_url": "https://github.com/MrAle98/SharpPick",
     "help": "run powershell not in CLM",
