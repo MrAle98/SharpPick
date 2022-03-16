@@ -1,7 +1,7 @@
 {
     "name": "SharpPick",
     "version": "0.0.0",
-    "command_name": "sharp-pick",
+    "command_name": "SharpPick",
     "original_author": "@TheKevinWang",
     "repo_url": "https://github.com/MrAle98/SharpPick",
     "help": "run powershell not in CLM",
